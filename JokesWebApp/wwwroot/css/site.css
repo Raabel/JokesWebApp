@@ -17,3 +17,11 @@ body {
   margin-bottom: 60px;
   background-color:#eee;
 }
+
+nav{
+    color: floralwhite;
+}
+
+.bg-color{
+    background-color: Background;
+}
